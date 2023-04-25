@@ -1,2 +1,2 @@
 # NBA_Player_Stats
-NBA Players Statistics
+爬取NBA球員數據資料
